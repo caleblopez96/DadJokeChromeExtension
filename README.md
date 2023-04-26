@@ -25,4 +25,4 @@ This script was inspired by similar scripts found on GitHub and other online res
 Contributions and constructive criticism for this project are welcome. If you have suggestions for how to improve the code, please submit a pull request or open an issue.
 
 **Contact:**
-If you have any questions about this script, you can reach me at caleblopez96@gmail.com.
+If you have any questions about this script, you can reach me at caleblopez96@gmail.com

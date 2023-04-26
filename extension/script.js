@@ -1,7 +1,7 @@
 const jokeText = document.querySelector(".jokeText");
-const btn = document.querySelector(".btn");
+const button = document.querySelector("button");
 
-btn.addEventListener("click", getJoke);
+button.addEventListener("click", getJoke);
 
 function getJoke() {
   fetch("https://icanhazdadjoke.com/", {
